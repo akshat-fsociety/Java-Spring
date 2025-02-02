@@ -1,0 +1,22 @@
+insert into test.product_table (price, quantity, sku, title_x)
+values
+(12.4, 4, 'parle789', 'parle biscuit'),
+(14.4, 1, 'pepsi123', 'pepsi'),
+(35.8, 3, 'coke124', 'coca cola'),
+(15.8, 3, 'pepsi567', 'maaza'),
+(18.2, 2, 'snack456', 'oreo'),
+(10.5, 4, 'juice321', 'tropicana'),
+(22.7, 5, 'choco890', 'kitkat'),
+(13.3, 1, 'soda678', 'sprite'),
+(19.6, 3, 'chips432', 'lays'),
+(25.0, 2, 'water567', 'bislery'),
+(11.9, 4, 'choco123', 'm&ms'),
+(16.4, 3, 'drink987', 'fanta'),
+(20.3, 4, 'candy654', 'mars'),
+(12.8, 3, 'tea987', 'lipton'),
+(23.5, 5, 'soda432', '7up'),
+(14.2, 1, 'chocolate654', 'dairy milk'),
+(30.0, 2, 'water321', 'aquafina'),
+(18.9, 3, 'chips567', 'pringles'),
+(28.4, 4, 'snack890', 'cheetos'),
+(16.1, 2, 'drink234', 'mountain dew');
